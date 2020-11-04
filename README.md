@@ -8,7 +8,7 @@
 
 **Enlace:** [GitHub Pages](https://pages.github.com/)
 
-**Mis gustos son:**
+**Mis aficiones son:**
 * Practicar deporte
 * Ver series
 * Escuchar música
