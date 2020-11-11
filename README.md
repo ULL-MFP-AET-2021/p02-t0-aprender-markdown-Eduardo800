@@ -37,5 +37,5 @@
 
 | Idioma | Nivel |
 | ------------- | ------------- |
-| {{ site.data.cv.tabla }} {{ site.data.cv.tabla.idioma }} | {{ site.data.cv.tabla.nivel }} |
+| {{ site.data.cv.tabla.idioma }} | {{ site.data.cv.tabla.nivel }} |
 
