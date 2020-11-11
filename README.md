@@ -4,7 +4,7 @@
 
 **Formación académica:** {{ site.data.cv.formacion }}
 
-<img src= {{ site.data.cv.imagen }} />
+<img src= "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-ballon-dor-2019-1592819026-41968.jpg" />
 
 **Enlace:** [GitHub Pages](https://pages.github.com/)
 
