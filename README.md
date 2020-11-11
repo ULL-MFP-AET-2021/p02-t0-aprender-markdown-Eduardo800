@@ -2,17 +2,17 @@
 
 **Nombre:** 
 
-**Formación académica:** {{site.data.cv.formación}}
+**Formación académica:** {{ site.data.cv.formación }}
 
 <img src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-ballon-dor-2019-1592819026-41968.jpg" />
 
 **Enlace:** [GitHub Pages](https://pages.github.com/)
 
 **Mis aficiones son:**
-{{site.data.cv.aficiones}}
+{{ site.data.cv.aficiones }}
 
 **Cita preferida:**
-> {{site.data.cv.cita}}
+> {{ site.data.cv.cita }}
 
 **Código:**
 
