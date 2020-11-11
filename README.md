@@ -33,7 +33,7 @@
         P_sol=[P_sol,P]; %valores de P válidos
     end
 
-"+1"
+:+1:
 
 | Idioma | Nivel |
 | ------------- | ------------- |
