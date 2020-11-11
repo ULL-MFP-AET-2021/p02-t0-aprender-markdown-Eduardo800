@@ -37,5 +37,5 @@
 
 | Primer encabezado | Segundo encabezado |
 | ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
+| {{ site.data.cv.tabla.column 1 }} | Contenido de la celda  |
 | Contenido de la celda  | Contenido de la celda  |
