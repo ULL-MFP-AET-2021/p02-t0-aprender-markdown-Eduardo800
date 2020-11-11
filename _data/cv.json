@@ -2,9 +2,7 @@
     "nombre": "Eduardo Jerez",
     "formacion": "Grado en Ingeniería Eléctrica por la ULPGC y Máster en Ingeniería Eléctrica por la UPM",
     "aficiones": [ 
-        "Deportes",
-        "Música", 
-        "Series"
+        "Deportes", "Música", "Series"
     ],
     "cita": "El camino fácil hizo hombres flojos",
     "tabla": [
