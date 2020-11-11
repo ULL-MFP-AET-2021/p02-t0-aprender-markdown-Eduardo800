@@ -1,6 +1,6 @@
 ## CURRICULUM VITAE
 
-**Nombre:** Eduardo Jerez Herrera
+**Nombre:** Eduardo Jerez
 
 **Formación académica:** {{ site.data.cv.formación }}
 
