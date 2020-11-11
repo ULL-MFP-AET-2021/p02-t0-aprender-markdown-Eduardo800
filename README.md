@@ -9,9 +9,7 @@
 **Enlace:** [GitHub Pages](https://pages.github.com/)
 
 **Mis aficiones son:**
-* Practicar deporte
-* Ver series
-* Escuchar música
+{{site.data.cv.aficiones}}
 
 **Cita preferida:**
 > {{site.data.cv.cita}}
