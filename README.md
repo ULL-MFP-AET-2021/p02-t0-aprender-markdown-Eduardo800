@@ -35,7 +35,7 @@
 
 :+1:
 
-| Primer encabezado | Segundo encabezado |
+| Idioma | Nivel |
 | ------------- | ------------- |
 | {{ site.data.cv.tabla.column 1 }} | Contenido de la celda  |
 | Contenido de la celda  | Contenido de la celda  |
