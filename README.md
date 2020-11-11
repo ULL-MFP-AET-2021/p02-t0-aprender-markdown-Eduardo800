@@ -33,7 +33,9 @@
         P_sol=[P_sol,P]; %valores de P válidos
     end
 
-:+1:
+<!DOCTYPE html>
+<span style='font-size:100px;'>&#8986;</span>
+</html>
 
 | Idioma | Nivel |
 | ------------- | ------------- |
