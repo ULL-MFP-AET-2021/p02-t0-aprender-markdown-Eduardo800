@@ -2,7 +2,7 @@
 
 **Nombre:** {{ site.data.cv.nombre }}
 
-**Formación académica:** {{ site.data.cv.formación }}
+**Formación académica:** {{ site.data.cv.formacion }}
 
 <img src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-ballon-dor-2019-1592819026-41968.jpg" />
 
