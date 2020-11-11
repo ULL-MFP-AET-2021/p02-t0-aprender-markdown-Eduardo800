@@ -1,6 +1,6 @@
 ## CURRICULUM VITAE
 
-**Nombre:** Eduardo Jerez
+**Nombre:** {{ site.data.cv.nombre }}
 
 **Formación académica:** {{ site.data.cv.formación }}
 
@@ -9,7 +9,7 @@
 **Enlace:** [GitHub Pages](https://pages.github.com/)
 
 **Mis aficiones son:**
-{{ site.data.cv.aficiones }}
+* {{ site.data.cv.aficiones }}
 
 **Cita preferida:**
 > {{ site.data.cv.cita }}
