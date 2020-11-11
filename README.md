@@ -35,6 +35,8 @@
 
 :+1:
 
+{{ site.data.cv.tabla }}
+
 | Idioma | Nivel |
 | ------------- | ------------- |
 | {{ site.data.cv.tabla.idioma }} | {{ site.data.cv.tabla.nivel }} |
