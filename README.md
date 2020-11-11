@@ -33,7 +33,8 @@
         P_sol=[P_sol,P]; %valores de P válidos
     end
 
-:+1:
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="js/jQueryEmoji.js"></script>
 
 | Idioma | Nivel |
 | ------------- | ------------- |
