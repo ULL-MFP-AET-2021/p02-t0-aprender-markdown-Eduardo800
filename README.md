@@ -1,6 +1,6 @@
 ## CURRICULUM VITAE
 
-**Nombre:** {{site.data.cv.nombre}}
+**Nombre:** 
 
 **Formación académica:** {{site.data.cv.formación}}
 
