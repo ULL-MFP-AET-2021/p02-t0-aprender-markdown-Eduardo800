@@ -14,7 +14,7 @@
 * Escuchar música
 
 **Cita preferida:**
-> El camino fácl hizo personas flojas.
+> {{site.data.cv.cita}}
 
 **Código:**
 
