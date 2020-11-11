@@ -4,7 +4,7 @@
 
 **Formación académica:** {{ site.data.cv.formacion }}
 
-<img src=  />
+<img src= {{ site.data.cv.imagen }} />
 
 **Enlace:** [GitHub Pages](https://pages.github.com/)
 
