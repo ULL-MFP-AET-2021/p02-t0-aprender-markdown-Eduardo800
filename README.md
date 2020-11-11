@@ -41,35 +41,3 @@
 | Idioma | Nivel |
 | ------------- | ------------- |
 | {{ site.data.cv.tabla.idioma }} | {{ site.data.cv.tabla.nivel }} |
-
-
-
-
-HTML:
-
-<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js
-
-"></script>
-
-<div id="container">
-
-</div>
-
-CSS:
-.tableStyle
-
-{
-
-width: 100px;
-
-border: 1px solid black;
-
-}
-
-.tableStyle th
-
-{
-
-color: red;
-
-}
