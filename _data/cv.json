@@ -1,7 +1,7 @@
 {
     "nombre": "Eduardo Jerez Herrera",
     "formacion": "Grado en Ingeniería Eléctrica por la ULPGC y Máster en Ingeniería Eléctrica por la UPM",
-    "aficiones": ["deportes", "música", "series"],
+    "aficiones": [ "deportes", "música", "series" ],
     "cita": "El camino fácil hizo hombres flojos"
 }
 
