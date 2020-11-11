@@ -10,9 +10,9 @@
 
 **Mis aficiones son:**
 {{ site.data.cv.aficiones }}
-* {{ site.data.cv.aficiones.Deportes }}
-* {{ site.data.cv.aficiones.Música }}
-* {{ site.data.cv.aficiones.Series }}
+* {{ site.data.cv.aficiones.deporte }}
+* {{ site.data.cv.aficiones.musica }}
+* {{ site.data.cv.aficiones.serie }}
 
 **Cita preferida:**
 > {{ site.data.cv.cita }}
