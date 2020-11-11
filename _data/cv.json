@@ -4,6 +4,6 @@
     "aficiones": [ "Deportes" ,"Música", "Series" ],
     "cita": "El camino fácil hizo hombres flojos",
     "tabla": [
-        {"idioma": "Inglés", "nivel": "B1"} 
+        {"idioma": "Inglés", "nivel": "B1"},
     ]
 }
