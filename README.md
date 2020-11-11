@@ -1,6 +1,6 @@
 ## CURRICULUM VITAE
 
-**Nombre:** Eduardo Jerez Herrera
+**Nombre:** {{site.data.cv.nombre}}
 
 **Formación académica:** Grado en Ingeniería Eléctrica por la ULPGC y Máster en Ingenería Eléctrica por la UPM.
 
