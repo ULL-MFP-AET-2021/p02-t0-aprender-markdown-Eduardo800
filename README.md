@@ -37,5 +37,5 @@
 
 | Idioma | Nivel |
 | ------------- | ------------- |
-| {{ site.data.cv.tabla.column 1 }} | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
+| {{ site.data.cv.tabla.idioma }} | {{ site.data.cv.tabla.nivel }} |
+
