@@ -35,7 +35,7 @@
         P_sol=[P_sol,P]; %valores de P válidos
     end
 
-:+1:
+<span style='font-size:100px;'>&#8986;</span>
 
 | Primer encabezado | Segundo encabezado |
 | ------------- | ------------- |
