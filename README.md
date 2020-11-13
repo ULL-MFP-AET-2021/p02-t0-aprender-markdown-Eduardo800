@@ -9,7 +9,7 @@
 **Enlace:** [GitHub Pages](https://pages.github.com/)
 
 **Mis aficiones son:**
-{% for aficion in site.data.cv.afciones -%} 
+{% for aficion in site.data.cv.aficiones -%} 
 * {{ aficion.deporte }}
 * {{ aficion.musica }}
 * {{ aficion.serie }}
