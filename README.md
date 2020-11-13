@@ -40,4 +40,4 @@
 
 | Idioma | Nivel |
 | ------------- | ------------- |
-| {{ site.data.cv.tabla.idioma }} | {{ site.data.cv.tabla.nivel }} |
+| {{ tabla.idioma }} | {{ site.data.cv.tabla.nivel }} |
