@@ -38,8 +38,8 @@
 
 <span style='font-size:100px;'>&#8986;</span>
 
+{% for lengua in site.data.cv.tabla -%} 
 | Idioma | Nivel |
 | ------------- | ------------- |
-| {% for lengua in site.data.cv.tabla -%} |  |
 | {{ lengua.idioma }} | {{ lengua.nivel }} |
-| {% endfor %} |  |
+ {% endfor %} 
