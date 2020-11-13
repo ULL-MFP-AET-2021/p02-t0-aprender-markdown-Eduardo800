@@ -43,4 +43,3 @@
 | {% for lengua in site.data.cv.tabla -%} |  |
 | {{ lengua.idioma }} | {{ lengua.nivel }} |
 | {% endfor %} |  |
-| {% endif %} |  |
