@@ -9,10 +9,11 @@
 **Enlace:** [GitHub Pages](https://pages.github.com/)
 
 **Mis aficiones son:**
-{{ site.data.cv.aficiones }}
-* {{ site.data.cv.aficiones.deporte }}
-* {{ site.data.cv.aficiones.musica }}
-* {{ site.data.cv.aficiones.serie }}
+{% for aficion in site.data.cv.afciones -%} 
+* {{ aficion.deporte }}
+* {{ aficion.musica }}
+* {{ aficion.serie }}
+{% endfor %} 
 
 **Cita preferida:**
 > {{ site.data.cv.cita }}
@@ -42,4 +43,4 @@
 | Idioma | Nivel |
 | ------------- | ------------- |
 | {{ lengua.idioma }} | {{ lengua.nivel }} |
- {% endfor %} 
+{% endfor %} 
